@@ -1,0 +1,6 @@
+{
+  "*.{js,jsx,ts,tsx}": [
+    "eslint --fix --no-ignore --report-unused-disable-directives --max-warnings=0"
+  ],
+  "*.css": ["stylelint --fix --max-warnings=0"]
+}
