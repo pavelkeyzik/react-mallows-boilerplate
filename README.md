@@ -14,14 +14,14 @@ npm run dev
 
 ## Features
 
-[x] - ESLint
-[x] - Stylelint (CSS, SCSS)
-[x] - Commitlint (conventional commits)
-[x] - Prettier
-[x] - Husky
-[x] - Lint-staged
-[x] - SVG support
-[x] - VSCode suggested extensions
+- [x] - ESLint
+- [x] - Stylelint (CSS, SCSS)
+- [x] - Commitlint (conventional commits)
+- [x] - Prettier
+- [x] - Husky
+- [x] - Lint-staged
+- [x] - SVG support
+- [x] - VSCode suggested extensions
 
 ## VSCode Settings
 
